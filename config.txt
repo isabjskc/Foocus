@@ -1,0 +1,12 @@
+{
+    "path_checkpoints": "/home/ubuntu/Desktop/InvokeAi/Fooocus/models/checkpoints",
+    "path_loras": "/home/ubuntu/Desktop/InvokeAi/Fooocus/models/loras",
+    "path_embeddings": "/home/ubuntu/Desktop/InvokeAi/Fooocus/models/embeddings",
+    "path_vae_approx": "/home/ubuntu/Desktop/InvokeAi/Fooocus/models/vae_approx",
+    "path_upscale_models": "/home/ubuntu/Desktop/InvokeAi/Fooocus/models/upscale_models",
+    "path_inpaint": "/home/ubuntu/Desktop/InvokeAi/Fooocus/models/inpaint",
+    "path_controlnet": "/home/ubuntu/Desktop/InvokeAi/Fooocus/models/controlnet",
+    "path_clip_vision": "/home/ubuntu/Desktop/InvokeAi/Fooocus/models/clip_vision",
+    "path_fooocus_expansion": "/home/ubuntu/Desktop/InvokeAi/Fooocus/models/prompt_expansion/fooocus_expansion",
+    "path_outputs": "/home/ubuntu/Desktop/InvokeAi/Fooocus/outputs"
+}
